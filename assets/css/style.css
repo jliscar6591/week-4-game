@@ -15,15 +15,19 @@ body{
 }
 #red{
 color:red;
+font-size: 110%;
 }
 #green{
 color:green;
+font-size: 110%;
 }
 #blue{
 color:blue;
+font-size: 110%;
 }
 #yellow{
 color:yellow;
+font-size: 110%;
 }
 .winsAndLosses{
 	color: white;
