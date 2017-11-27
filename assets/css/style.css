@@ -1,0 +1,43 @@
+body{
+	background-color: black;
+}
+.header {
+	text-align: center;
+	color: white;
+	background-image: url("../images/header-rock.jpg");
+	border-style: double;
+}
+.instructions{
+	border-style: double;
+	text-align: center;
+	line-height: 1.5;
+	color: white;
+}
+#red{
+color:red;
+}
+#green{
+color:green;
+}
+#blue{
+color:blue;
+}
+#yellow{
+color:yellow;
+}
+.winsAndLosses{
+	color: white;
+}
+.numberToMatch{
+	color: white;
+	text-align: center;
+}
+.gems{
+	text-align: center;
+	background-color: white;
+	border-style: double;
+	bottom: 25px;
+}
+.userTotal{
+	color: white;
+}
